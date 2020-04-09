@@ -1,0 +1,17 @@
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Release\Controls\CommandLinkWPF.baml
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Release\ExplorerBrowser\ExplorerBrowser.WPF.baml
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Release\Controls\CommandLinkWPF.g.cs
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Release\ExplorerBrowser\ExplorerBrowser.WPF.g.cs
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Release\Microsoft.WindowsAPICodePack.Shell_MarkupCompile.cache
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Release\Microsoft.WindowsAPICodePack.Shell.g.resources
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Release\Microsoft.WindowsAPICodePack.Shell.Resources.LocalizedMessages.resources
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Release\Shell.csproj.GenerateResource.cache
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Release\Shell.csproj.CoreCompileInputs.cache
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Release\Shell.csprojAssemblyReference.cache
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\bin\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\bin\Release\Microsoft.WindowsAPICodePack.dll
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\bin\Release\Microsoft.WindowsAPICodePack.pdb
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Release\Shell.csproj.CopyComplete
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Release\Microsoft.WindowsAPICodePack.Shell.dll
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\Shell\obj\Release\Microsoft.WindowsAPICodePack.Shell.pdb

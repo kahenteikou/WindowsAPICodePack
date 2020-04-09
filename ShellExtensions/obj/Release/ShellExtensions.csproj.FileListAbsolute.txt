@@ -1,0 +1,13 @@
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\obj\Release\ShellExtensions.csprojAssemblyReference.cache
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\obj\Release\Microsoft.WindowsAPICodePack.ShellExtensions.Resources.LocalizedMessages.resources
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\obj\Release\ShellExtensions.csproj.GenerateResource.cache
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\obj\Release\ShellExtensions.csproj.CoreCompileInputs.cache
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\bin\Release\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\bin\Release\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\bin\Release\Microsoft.WindowsAPICodePack.dll
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\bin\Release\Microsoft.WindowsAPICodePack.pdb
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\bin\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\obj\Release\ShellExtensions.csproj.CopyComplete
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\obj\Release\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\ShellExtensions\obj\Release\Microsoft.WindowsAPICodePack.ShellExtensions.pdb

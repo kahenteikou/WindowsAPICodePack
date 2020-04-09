@@ -1,0 +1,8 @@
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\obj\Release\Core.csprojAssemblyReference.cache
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\obj\Release\Microsoft.WindowsAPICodePack.Resources.LocalizedMessages.resources
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\obj\Release\Core.csproj.GenerateResource.cache
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\obj\Release\Core.csproj.CoreCompileInputs.cache
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\bin\Release\Microsoft.WindowsAPICodePack.dll
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\bin\Release\Microsoft.WindowsAPICodePack.pdb
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\obj\Release\Microsoft.WindowsAPICodePack.dll
+I:\Downloads\Windows API Code Pack 1.1\source\WindowsAPICodePack\Core\obj\Release\Microsoft.WindowsAPICodePack.pdb
